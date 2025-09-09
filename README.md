@@ -19,7 +19,7 @@ A lightweight, Java-like programming language implemented in Python with a compl
 | Type      | Description       | Default Value | Example         |
 | --------- | ----------------- | ------------- | --------------- |
 | `int`     | Integer numbers   | `0`           | `42`, `-17`     |
-| `String`  | Text strings      | `""`          | `"Hello World"` |
+| `string`  | Text strings      | `""`          | `"Hello World"` |
 | `boolean` | True/false values | `false`       | `true`, `false` |
 
 ### Variable Declaration and Assignment
@@ -405,5 +405,3 @@ Contributions are welcome! Potential areas for improvement:
 This project is open source and available under the MIT License.
 
 ---
-
-**Bulang** - A simple yet powerful programming language for learning language implementation concepts and basic programming constructs.
